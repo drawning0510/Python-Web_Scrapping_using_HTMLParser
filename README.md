@@ -9,3 +9,5 @@ https://www.att.com/stores/us?fbclid=IwAR1s-gJMi0hDo2KxFazu1JacF0LlIKZf6fv6VtExj
 # File list
 1. Python code: `at&t address scrapping.ipynb`
 2. Output: `at&t - stroes address.xlsx`
+# Contributor
+* Ian Chi
